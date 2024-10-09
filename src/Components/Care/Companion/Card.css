@@ -1,0 +1,80 @@
+/* .profileCard{
+    border: 2px solid whitesmoke;
+    font-weight: 200;
+    transition: transform 0.5s ease;
+    border-radius: 10px;
+    width: 20rem;
+    height: 30rem;
+}
+
+.profileCard:hover{
+    box-shadow: 5px 5px 2cap 5px rgb(198, 198, 198);
+    transform: translateY(-10px);
+}
+
+.profileCard h4{
+    font-weight: 600;
+    color: #7C9D96;
+}
+
+.profileCard .profile{
+    border-radius: 100%;
+    border: 5px solid rgb(243, 243, 243);
+}
+
+.btn{
+    background-color: #A1CCD1;
+    border-radius: 100rem;
+}
+
+.btn:hover{
+    background-color: #8ab1b5;
+} */
+
+.profile-card {
+  background-color: white;
+  border-radius: 12px;
+  text-align: center;
+  border: 2px solid whitesmoke;
+  transition: transform 0.5s ease;
+  width: 23rem;
+}
+
+.profile-card:hover{
+    box-shadow: 5px 5px 2cap 5px rgb(198, 198, 198);
+    transform: translateY(-10px);
+}
+
+.nurse-photo {
+  border-radius: 50%;
+  width: 180px;
+  height: 180px;
+  border: 5px solid #a1ccd1;
+}
+
+h2 {
+  color: #7c9d96;
+  font-size: 24px;
+}
+
+p {
+  color: #555;
+  font-size: 16px;
+}
+
+strong {
+  color: #7c9d96;
+  font-weight: 600;
+}
+
+.profile-card p {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+
+.profile-card p strong {
+  width: 140px;
+  text-align: left;
+}

@@ -1,0 +1,31 @@
+.input-group{
+    width: 20%;
+    border-radius: 10px;
+}
+
+.btn{
+    width: 10rem;
+    height: 2.35rem;
+    align-self: center;
+    background-color: #A1CCD1;
+}
+
+.input-group .btn{
+    border-radius: 10px;
+    width: 4rem;
+    height: 2.35rem;
+}
+
+.companions h1{
+    color: #E9B384;
+    text-align: center;
+}
+
+.profile{
+    height: 10rem;
+    width: 10rem;
+}
+
+.register-btn{
+    width: 12rem;
+}

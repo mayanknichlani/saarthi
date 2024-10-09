@@ -1,0 +1,6 @@
+.detailsBox{
+    border-radius: 20px;
+    box-shadow: 2px 5px 20px 2px grey;
+    margin: 20px;
+    width: 50%;
+}

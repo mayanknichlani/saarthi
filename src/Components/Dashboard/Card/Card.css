@@ -1,0 +1,29 @@
+.card{
+    border: 0;
+    font-weight: 200;
+    transition: transform 0.5s ease;
+}
+
+.card:hover{
+    box-shadow: 5px 5px 2cap 5px rgb(198, 198, 198);
+    transform: translateY(-10px);
+}
+
+h4{
+    font-weight: 300;
+    color: #7C9D96;
+}
+
+.card img{
+    border-radius: 10px;
+}
+
+.btn{
+    width: 40%;
+    background-color: #A1CCD1;
+    border-radius: 100rem;
+}
+
+.btn:hover{
+    background-color: #8ab1b5;
+}

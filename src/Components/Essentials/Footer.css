@@ -1,0 +1,15 @@
+a{
+    color: black;
+    text-decoration: none;
+}
+
+footer h5{
+    color: black;
+    font-weight: bolder;
+    font-size: 800;
+}
+
+footer img{
+    height: 25px;
+    width: 25px;
+}

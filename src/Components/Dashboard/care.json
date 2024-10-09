@@ -1,0 +1,35 @@
+{
+    "services": [
+      {
+        "title": "Health Care Assistance",
+        "img": "cardImg",
+        "content": "Personalized and focused on meeting the health requirements of elderly people."
+      },
+      {
+        "title": "Leisure Care",
+        "img": "https://img.freepik.com/free-photo/elderly-playing-moving-chess-with-nurse-caregiver-nursing-home-leisure_554837-209.jpg?uid=R136664623&ga=GA1.1.2089377494.1724692086&semt=ais_hybrid",
+        "content": "Personalized and focused on meeting the health requirements of elderly people."
+      },
+      {
+        "title": "Companion Care",
+        "img": "https://img.freepik.com/free-photo/grandmother-happy-spend-time-with-family_23-2148597165.jpg?uid=R136664623&ga=GA1.1.2089377494.1724692086&semt=ais_hybrid",
+        "content": "Focuses on offering emotional support through social interactions."
+      },
+      {
+        "title": "Emergency Care Assistance",
+        "img": "https://img.freepik.com/free-photo/british-ambulance-parked-parking-lot_53876-63437.jpg?uid=R136664623&ga=GA1.1.2089377494.1724692086&semt=ais_hybrid",
+        "content": "Immediate and responsive medical assistance during urgent health crises."
+      },
+      {
+        "title": "Rehabilitation",
+        "img": "https://img.freepik.com/free-photo/doctor-relieves-pressure-from-back-bones_482257-90377.jpg?uid=R136664623&ga=GA1.1.2089377494.1724692086&semt=ais_hybrid",
+        "content": "Helps recover from injuries or surgeries through therapies and treatments."
+      },
+      {
+        "title": "Mental Health Care",
+        "img": "https://img.freepik.com/free-photo/smiley-senior-man-nursing-home-with-nurse_23-2148740001.jpg?uid=R136664623&ga=GA1.1.2089377494.1724692086&semt=ais_hybrid",
+        "content": "Specialized support for individuals dealing with mental health issues"
+      }
+    ]
+  }
+  
